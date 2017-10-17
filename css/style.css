@@ -2,9 +2,11 @@ div{
   height: 100px;
 }
 .yellow{
-  background-color: rgb(221, 245, 6);
+  background-color: #FFCC00;
 }
 
 .black{
-  background-color: #000;
+  background-color: #484848;
+  margin: 10px 0 10px;
+  color: white;
 }
